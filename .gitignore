@@ -1,0 +1,6 @@
+
+### Updated `requirements.txt`
+```plaintext
+fastapi
+uvicorn
+pydantic
