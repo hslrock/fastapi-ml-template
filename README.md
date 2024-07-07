@@ -7,6 +7,7 @@ This is a FastAPI project template designed to run an AI model. The template pro
 
 The project is organized as follows:
 
+```
 fastapi-ai-project/
 ├── run_server.py
 ├── src/
@@ -32,6 +33,7 @@ fastapi-ai-project/
 ├── poetry.lock
 ├── README.md
 └── .gitignore
+```
 
 ```perl
 
