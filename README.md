@@ -59,7 +59,7 @@ fastapi-ai-project/
 Make sure you have Python 3.12+ and Poetry installed on your system. You can install Poetry by following the [official instructions](https://python-poetry.org/docs/#installation).
 ```
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
@@ -91,6 +91,15 @@ python run_server.py
 #The server will start on http://0.0.0.0:8000.
 ```
 
+
+## Running with Docker
+### Building the Docker Image
+To build the Docker image, run the following command:
+
+```
+docker build -t fastapi-ai-project .
+docker run -p 8000:8000 fastapi-ai-project
+```
 
 ## Reference:
 

@@ -1,6 +1,6 @@
-
-### Updated `requirements.txt`
-```plaintext
-fastapi
-uvicorn
-pydantic
+__pycache__
+*.pyc
+.env
+venv/
+.git
+.gitignore
